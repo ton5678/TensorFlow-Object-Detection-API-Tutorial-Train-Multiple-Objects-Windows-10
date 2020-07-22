@@ -1,3 +1,5 @@
+####################### DETECT ALL DIRECTORY #####################
+
 ######## Image Object Detection Using Tensorflow-trained Classifier #########
 #
 # Author: Evan Juras
